@@ -1,0 +1,1 @@
+python test.py --data-dir ./data_root/olympus --file-type tif --checkpoint-dir ./models/checkpoint --k 1.5625 --num-iters 10 --lr 0.0001
