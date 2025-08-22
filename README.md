@@ -26,5 +26,5 @@ Please cite our paper when you use this code.
 
 # Contact
 
-Please contact [snam0331 AT gmail.com](snam0331@gmail.com) if you have any question about this work.
+Please contact [snam0331 AT gmail.com](mailto:snam0331@gmail.com) if you have any question about this work.
 
